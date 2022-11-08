@@ -23,7 +23,7 @@
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyclerview"
         android:layout_width="match_parent"
-        android:layout_height="300dp"
+        android:layout_height="400dp"
         android:layout_below="@id/textview"
         android:nestedScrollingEnabled="true"
         app:layout_constraintBottom_toBottomOf="parent"
