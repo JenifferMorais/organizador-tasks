@@ -40,8 +40,9 @@
         android:layout_height="wrap_content"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginTop="650dp"
-        android:layout_marginEnd="30dp"
+        android:layout_marginTop="524dp"
+        android:layout_marginEnd="36dp"
+        android:backgroundTint="@color/white2"
         android:src="@drawable/ic_baseline_add_24"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />

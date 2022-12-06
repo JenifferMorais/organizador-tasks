@@ -84,7 +84,6 @@ public class ToDoAdapter extends RecyclerView.Adapter<ToDoAdapter.MyViewHolder> 
         AddNewTask task = new AddNewTask();
         task.setArguments(bundle);
         task.show(activity.getSupportFragmentManager() , task.getTag());
-        
 
     }
 

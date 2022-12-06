@@ -16,7 +16,7 @@
       app:layout_constraintHorizontal_bias="0.5"
       app:layout_constraintStart_toStartOf="parent"
       android:text="Productivity"
-      android:textColor="@color/colorWhite"
+      android:textColor="@color/white2"
       android:textSize="40sp"
       android:textStyle="bold"
       android:drawablePadding="15dp"
